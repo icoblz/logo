@@ -1,2 +1,1 @@
-# logo
-agartha.logo
+
